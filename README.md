@@ -1,4 +1,4 @@
-# educationhelp
-education help useful to improve student mind and skill 
+# EDUCATION HELP
+Education help useful to improve student mind and skill 
 
 past paper & model paper 
